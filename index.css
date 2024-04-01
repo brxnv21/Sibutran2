@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+a{
+    text-decoration: none;
+    color: #Fff;
+}
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+height: 100vh;
+overflow: hidden;
+    background-image: url('https://cdn.pixabay.com/photo/2014/11/17/13/17/crossfit-534615_1280.jpg');
+    background-size: cover;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+        background-color: rgba(200, 216, 204, 0.566)
+
+}
+header{
+    background-image: url(./mockup\ kit\ 6\ +\ e-books.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  height:30%;
+        width: 100%;
+   
+}
+
+div{
+    
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 10px;
+    height: 50%;
+    padding: 2rem;
+    text-align: center;
+    font-size: 3vw;
+    
+  
+   flex-direction: column;
+   
+}
+h1{
+    font-size: 15px;
+    background-color: #fff;
+    padding: 15vw;
+    border-radius: 5px;
+
+}
+
+ button{
+
+    width: 200px;
+    border: white;
+ }
